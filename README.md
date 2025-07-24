@@ -1,12 +1,72 @@
-# React + Vite
+# 💘 CrushConnect - The Secret Matchmaker of Poornima Campus
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**CrushConnect** is a fun, anonymous matchmaking web app made just for the students of Poornima University. It helps students express unspoken feelings by secretly adding their crushes — if both students add each other, it's a match! 💥
 
-Currently, two official plugins are available:
+> ❗ This is a passion project by students, for students — not officially affiliated with Poornima University.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔒 100% Anonymous Submissions
+- ❤️ Mutual Crush Matching System
+- 📬 Instant Match Notification
+- 🔐 Secure Firebase Authentication
+- 🎭 No One Knows Until It's Mutual
+- 📱 Mobile-Friendly Progressive Web App
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js + Tailwind CSS
+- **Backend**: Firebase (Auth + Firestore)
+- **Authentication**: Email / Roll Number based
+- **Deployment**: Vercel / Firebase Hosting
+
+---
+
+## 🎯 How It Works
+
+1. **Log in** using your college email or roll number.
+2. **Add your secret crush** from campus — completely anonymous.
+3. If your crush also adds you, 💥 BOOM — you're both notified of a mutual match!
+4. If not... well, no one knows — not even your crush 😉.
+
+---
+
+## 🧠 Privacy & Safety
+
+We take privacy seriously:
+- No one can view who you’ve added.
+- Only mutual matches are notified.
+- No public profiles.
+- All data is stored securely in Firestore.
+- Moderation logic prevents spam or abuse.
+
+> 🔐 No data is shared or sold. This is a closed-campus fun app only.
+
+---
+
+## 🚧 Coming Soon
+
+- 🎭 Confession Wall (anonymously send cute messages)
+- 🎯 Interest-based Crush Matching
+- 🧑‍💻 AI-generated pickup lines (just for fun 😆)
+
+---
+
+## 📣 Disclaimer
+
+This is a student-made project intended purely for **fun, connection, and harmless interaction**. Please use responsibly and respectfully.
+
+**Not affiliated with Poornima University.**
+Any misuse or violation of privacy may lead to bans or removal of access.
+
+
+## 🧑‍💻 Developer
+
+Made with ❤️ by a passionate student of Poornima.
+
+> “Sometimes, the things we never say are the things that matter most.”
+
